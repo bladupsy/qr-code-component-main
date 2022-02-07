@@ -14,9 +14,7 @@ body{
 }
 
 .container{
-    width: 100%;
-    height: 100%;
-    max-width: 1000px;
+    margin: 0;
 }
 
 
@@ -25,6 +23,7 @@ body{
     height: 500px;
     background: var(--white-color);
     border-radius: 12px;
+    margin-top: 30px;
 }
 
 .card-body{
@@ -68,6 +67,7 @@ footer{
     width: 100%;
     text-align: center;
     color: var(--grayish-blue-color);
+    margin-top: 20px;
 }
 
 .links{
